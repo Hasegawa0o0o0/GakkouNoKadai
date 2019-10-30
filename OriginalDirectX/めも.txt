@@ -1,0 +1,18 @@
+—áŠOˆ—
+ CApplication::doPlayng
+ try
+ {
+	m_pMap
+ }
+ try
+ {
+	~~~~~~~
+	m_pMapManager->update(dir, m_frameCounter);
+ }
+ cacth(eGameStatuse status_)
+ {
+	~~~~~~
+ }
+
+ CMapManager::update
+ if() throw eGameClear;

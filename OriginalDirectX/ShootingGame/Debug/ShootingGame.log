@@ -1,0 +1,21 @@
+﻿  CShootingGameApp.cpp
+c:\users\yuuta\desktop\originaldirectx\shootinggame\cshootinggameapp.cpp(356): error C2660: 'CPicture::render': 関数に 2 個の引数を指定できません。
+c:\users\yuuta\desktop\originaldirectx\shootinggame\cshootinggameapp.cpp(378): error C2660: 'CPicture::render': 関数に 2 個の引数を指定できません。
+  CScroll.cpp
+c:\users\yuuta\desktop\originaldirectx\shootinggame\cscroll.cpp(177): error C2660: 'CPicture::render': 関数に 2 個の引数を指定できません。
+c:\users\yuuta\desktop\originaldirectx\shootinggame\cscroll.cpp(178): error C2660: 'CPicture::render': 関数に 2 個の引数を指定できません。
+  コードを生成中...
+  コンパイル中...
+  CApplication.cpp
+  コードを生成中...
+  コンパイル中...
+  ShootingGame.cpp
+  CSpaceship.cpp
+  CPlayer.cpp
+  CExplosion.cpp
+  CEnemy.cpp
+  CQuadPolygon.cpp
+  CPicture.cpp
+  CDirectInput.cpp
+  CCamera.cpp
+  コードを生成中...

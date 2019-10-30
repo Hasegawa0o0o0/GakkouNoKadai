@@ -1,0 +1,3 @@
+﻿  CBounceBallApp.cpp
+d:\17cu0126\originaldirectx\actiongame\cplayer.h(82): warning C4267: 'return': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  ActionGame.vcxproj -> D:\17cu0126\OriginalDirectX\x64\Debug\Kadai.exe

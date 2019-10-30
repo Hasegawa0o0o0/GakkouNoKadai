@@ -1,0 +1,48 @@
+/**
+* @fn HRESULT CApplication::initWindow(HINSTANCE hInstance_, WNDPROC wndProc,　INT iX_, INT iY_, INT iWidth_, INT iHeight_, LPCWSTR windowName_)
+* @brief ウインドウの生成と初期化
+* @param hInstance_		WindowsAPIのインスタンス
+* @param wndProc		コールバック
+* @param iX_			ウインドウのx位置
+* @param iY_			ウインドウのy位置
+* @param iWidth_		ウインドウの幅
+* @param iHeight_		ウインドウの高さ
+* @param windowName_	ウインドウの名前
+* @return				WindowsAPI 実行結果
+*/
+
+/**
+* @fn std::unique_ptr<CSprite> CSprite::create(ID3D11Device* pDevice_, ID3D11DeviceContext* pDeviceContext_, D3D11_VIEWPORT viewPort_[], LPCWSTR hlslName_, LPCWSTR textureName_, XMFLOAT4 position_, XMFLOAT2 size_, std::vector<UVCoord> uvArray_)
+* @brief インスタンスを生成し初期化 【クラスメソッド】
+* @param pDevice_			デバイス
+* @param pDeviceContext_	デバイスコンテキスト
+* @param viewPort_[]		ビューポート
+* @param hlslName_			シェーダープログラム
+* @param textureName_		画像ファイル
+* @param position_			ウィンドウの位置
+* @param size_				スプライトの大きさ
+* @param uvArray_			爆発のUV配列
+* @return					CSpriteのユニークポインタ
+*/
+
+/**
+* @fn void CSprite::init(ID3D11Device* pDevice_, ID3D11DeviceContext* pDeviceContext_, D3D11_VIEWPORT viewPort_[], LPCWSTR hlslName_, LPCWSTR textureName_, XMFLOAT4 position_, XMFLOAT2 size_, std::vector<UVCoord> uvArray_)
+* @brief インスタンスを初期化
+* @param pDevice_			デバイス
+* @param pDeviceContext_	デバイスコンテキスト
+* @param viewPort_[]		ビューポート
+* @param hlslName_			シェーダープログラム
+* @param textureName_		画像ファイル
+* @param position_			ウィンドウの位置
+* @param size_				スプライトの大きさ
+* @param uvArray_			爆発のUV配列
+* @return					CSpriteのユニークポインタ
+*/
+
+/**
+* @fn VOID CDirectInput::releaseInstance()
+* @brief インスタンスを解放 【クラスメソッド】<Singleton-pattern>
+* @param	無し
+* @return	無し
+*/
+
